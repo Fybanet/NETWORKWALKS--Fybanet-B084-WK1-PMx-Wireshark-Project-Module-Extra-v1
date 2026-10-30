@@ -105,7 +105,7 @@ Acting as a SOC analyst, the task involved capturing network packets, investigat
 
 ### Evidence
 
-![Lab 03 Assessment Result](images/lab03-result.png)
+![Lab 03 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wireshark%20Lab%203%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -147,7 +147,7 @@ The investigation involved capturing the communication, identifying the relevant
 
 ### Evidence
 
-![Lab 04 Assessment Result](images/lab04-result.png)
+![Lab 04 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wireshark%20Lab%204%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -190,7 +190,7 @@ The task involved examining captured HTTP traffic, reconstructing web communicat
 
 ### Evidence
 
-![Lab 05 Assessment Result](images/lab05-result.png)
+![Lab 05 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wireshark%20Lab%205%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -234,7 +234,7 @@ The investigation involved capturing the login traffic, examining HTTP requests,
 
 ### Evidence
 
-![Lab 06 Assessment Result](images/lab06-result.png)
+![Lab 06 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wire%20shark%20Lab%206%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -279,7 +279,7 @@ Acting as a SOC analyst, the task involved examining FTP network traffic, invest
 
 ### Evidence
 
-![Lab 07 Assessment Result](images/lab07-result.png)
+![Lab 07 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wireshark%20Lab%207%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -325,7 +325,7 @@ The investigation involved capturing the network traffic, identifying the call s
 
 ### Evidence
 
-![Lab 08 Assessment Result](images/lab08-result.png)
+![Lab 08 Assessment Result](https://github.com/Fybanet/NETWORKWALKS--Fybanet-B084-WK1-PMx-Wireshark-Project-Module-Extra-v1/blob/main/Wireshark%20Lab%208%20Result%20-%20Fybanet.png)
 
 ---
 
@@ -460,5 +460,6 @@ These practical exercises have strengthened my foundation in network traffic ana
 
 ---
 
-*Documented as part of my ongoing cybersecurity learning and professional portfolio development.*
+*Documented as part of my ongoing cybersecurity learning and professional portfolio development.*  
+*Full name is blurred out in screenshots for privacy.*
 
